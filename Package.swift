@@ -19,7 +19,8 @@ let package = Package(
             path: "Sources",
             exclude: [
                 "FXPageControl.h",
-                "FXPageControl.m"
+                "FXPageControl.m",
+                "TwitterPagerTabStripViewController.swift"
             ]
         ),
         .testTarget(
